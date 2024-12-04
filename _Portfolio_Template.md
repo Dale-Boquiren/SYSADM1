@@ -91,8 +91,10 @@
 
 **\<insert your scanned activities here include title\>**
 
+**FIRST GRADING:**
 
 **Quiz 1:**
+![image](https://github.com/user-attachments/assets/8a945f3f-25a4-430b-bf84-9b5baf09d72d)
 
 
 
