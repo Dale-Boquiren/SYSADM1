@@ -36,8 +36,7 @@
 | > \<Name of Activity/Exercise/Library  |              |              |
 | > Research/Etc\>                       |              |              |
 +----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
+| FGE_LW3 Managing Services in Windows   | 08/28/2024   |              |
 +----------------------------------------+--------------+--------------+
 | First Grading Exam                     |              |              |
 +----------------------------------------+--------------+--------------+
@@ -92,9 +91,27 @@
 
 **\<insert your scanned activities here include title\>**
 
+
 **Quiz 1:**
 
-![](./image1.png){width="2.8125in" height="2.8125in"}
+
+
+**FGE_LW3 Managing Services in Windows:**
+
+![image](https://github.com/user-attachments/assets/9b8b9a23-a759-43cb-9a33-a487349d883e)
+![image](https://github.com/user-attachments/assets/13e1976b-cb53-43ac-9ac2-aa27d933c652)
+
+
+
+
+
+
+
+
+
+
+
+
 
 **\<delete the sample above and include your own
 quizzes/activities/exam\>**
