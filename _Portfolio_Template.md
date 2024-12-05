@@ -58,6 +58,8 @@
 +----------------------------------------+--------------+--------------+
 | M_R1 Web Server Monitoring             |              |              |
 +----------------------------------------+--------------+--------------+
+| EULA Activity           |              |              |
++----------------------------------------+--------------+--------------+
 | Midterm Exam Lecture                   |              |              |
 +----------------------------------------+--------------+--------------+
 | Midterm Exam Laboratory                |              |              |
@@ -103,6 +105,11 @@
 
 
 
+**MIDTERMS:**
+
+**EULA Activity**
+![image](https://github.com/user-attachments/assets/eee26356-1bf1-4ac1-84e2-09a566c9e905)
+![image](https://github.com/user-attachments/assets/b7722752-2887-45e1-9ea3-adafe62342b9)
 
 
 
