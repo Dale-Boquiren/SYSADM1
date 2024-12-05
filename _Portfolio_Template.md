@@ -82,6 +82,8 @@
 +----------------------------------------+--------------+--------------+
 | F_LW2 Git                              |              |              |
 +----------------------------------------+--------------+--------------+
+| Data Loss                              |              |              |
++----------------------------------------+--------------+--------------+
 | Network Design                         |              |              |
 +----------------------------------------+--------------+--------------+
 | Final Exam                             |              |              |
@@ -110,6 +112,16 @@
 **EULA Activity**
 ![image](https://github.com/user-attachments/assets/eee26356-1bf1-4ac1-84e2-09a566c9e905)
 ![image](https://github.com/user-attachments/assets/b7722752-2887-45e1-9ea3-adafe62342b9)
+
+
+**FINALS:**
+
+**Data Loss**
+![image](https://github.com/user-attachments/assets/f55308ff-cb04-49da-968f-914fb9cfe403)
+![image](https://github.com/user-attachments/assets/d07829c1-f034-4c57-ac8f-5f9d9f719563)
+![image](https://github.com/user-attachments/assets/2c31835e-45cc-484d-b4b7-c3e2d53f75a0)
+![image](https://github.com/user-attachments/assets/2dc64d65-7bcd-4a71-8a44-d6fa0b126c8e)
+
 
 
 
