@@ -1,6 +1,6 @@
 +----------------------------------+------------------------+----------+
 | ![](.                            |                        |          |
-| /image2.png){width="2.4in" |                        |          |
+| /image2.png){width="2.4in"       |                        |          |
 | height="0.5881944444444445in"}   |                        |          |
 |                                  |                        |          |
 | SCHOOL OF INFORMATION TECHNOLOGY |                        |          |
@@ -56,9 +56,9 @@
 +----------------------------------------+--------------+--------------+
 | M_LW2 Web Server                       |              |              |
 +----------------------------------------+--------------+--------------+
-| M_R1 Web Server Monitoring             |              |              |
+| M_R1 Web Server Monitoring             | 10/16/2024   |              |
 +----------------------------------------+--------------+--------------+
-| EULA Activity           |              |              |
+| EULA Activity                          |              |              |
 +----------------------------------------+--------------+--------------+
 | Midterm Exam Lecture                   |              |              |
 +----------------------------------------+--------------+--------------+
@@ -101,13 +101,18 @@
 
 
 **FGE_LW3 Managing Services in Windows:**
-
 ![image](https://github.com/user-attachments/assets/9b8b9a23-a759-43cb-9a33-a487349d883e)
 ![image](https://github.com/user-attachments/assets/13e1976b-cb53-43ac-9ac2-aa27d933c652)
 
 
 
 **MIDTERMS:**
+
+**M_R1 Web Server Monitoring**
+![image](https://github.com/user-attachments/assets/44dc83bd-7afa-4e08-88db-75b7210dcbfb)
+![image](https://github.com/user-attachments/assets/a762a3f5-e23e-4617-86e8-05defdb59920)
+
+
 
 **EULA Activity**
 ![image](https://github.com/user-attachments/assets/eee26356-1bf1-4ac1-84e2-09a566c9e905)
