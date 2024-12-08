@@ -132,14 +132,14 @@ What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
 
   -----------------------------------------------------------------------
-
+I expected the course to provide foundational knowledge about managing and maintaining IT systems, focusing on practical applications of tools and processes used in real-world scenarios. I feel that some areas were not fully explored due to challenges like laboratory equipment issues and class suspensions. These interruptions limited the time we could spend on practical activities, which are crucial for mastering system administration tasks.
   -----------------------------------------------------------------------
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
 
   -----------------------------------------------------------------------
-
+The course covered topics such as operating system installation and configuration, user and permission management, networking fundamentals, system monitoring, and troubleshooting. These topics taught me how to set up, manage, and troubleshoot computer systems . Although, I still need to practice or play with it to fully master it.
   -----------------------------------------------------------------------
 
 Reflecting on your learning process, what were the most effective
@@ -147,7 +147,7 @@ strategies or techniques that helped you grasp and retain the course
 material?
 
   -----------------------------------------------------------------------
-
+Hands-on practice was the most effective strategy. Setting up virtual environments to simulate real-world scenarios allowed me to experiment and play with it, I make a lot of mistakes and troubleshoots it.
   -----------------------------------------------------------------------
 
 Were there any particular assignments, projects, or activities that
@@ -155,17 +155,15 @@ significantly enhanced your learning experience? Why were they
 effective?
 
   -----------------------------------------------------------------------
-
+The activities FGE_LW3: Managing Services in Windows and FGE_LW4: Managing Services in Linux were particularly impactful. These lab activities required me to directly engage with service management tasks, such as enabling, disabling, and configuring essential services. They were effective because they simulated real-world administrative tasks and highlighted the differences and similarities between managing services on Windows and Linux systems.
   -----------------------------------------------------------------------
 
 Did you encounter any challenges or difficulties during the course? How
 did you overcome these obstacles, and what did you learn from them?
 
 -----------------------------------------------------------------------
-
-
-  -----------------------------------------------------------------------
-
+I found it very challenging to set up Linux, especially understanding the command-line interface and configuring system settings. To overcome this, I spent extra time practicing commands and followed tutorials on youtube. It was a bit overwhelming to learn it, but I mainly focused on the basics, like navigating the command line and managing files, while still having a lot to learn.
+-----------------------------------------------------------------------
   -----------------------------------------------------------------------
 
 Did the course encourage critical thinking and analysis? How did it
@@ -173,19 +171,19 @@ promote higher-order thinking skills, such as problem-solving or
 decision-making?
 
   -----------------------------------------------------------------------
-
+Yes, the course strongly emphasized critical thinking and analysis. It promoted higher-order thinking skills through problem-solving tasks, like troubleshooting system issues and making decisions on the best approaches to configure and manage services based on specific needs.
   -----------------------------------------------------------------------
 
 Reflecting on your personal growth, what new knowledge, skills, or
 perspectives did you gain from this course?
 
   -----------------------------------------------------------------------
-
+From this course, I gained a basic understanding of managing services on both Windows and Linux, learning their similarities and differences, and gaining foundational skills in troubleshooting and configuration.
   -----------------------------------------------------------------------
 
 How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
 
   -----------------------------------------------------------------------
-
+I plan to apply the basic skills I’ve learned in this course by using my knowledge of Windows and Linux to troubleshoot and configure systems more effectively in future projects, studies, and possibly in a career involving IT or system administration.
   -----------------------------------------------------------------------
